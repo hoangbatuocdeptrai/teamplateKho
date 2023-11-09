@@ -1,0 +1,7 @@
+﻿body {
+}
+
+input.form-control:focus {
+    background: transparent;
+    color: #fff;
+}
