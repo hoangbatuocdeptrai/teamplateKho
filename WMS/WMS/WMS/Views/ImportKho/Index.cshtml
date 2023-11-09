@@ -13,16 +13,65 @@
 							<thead class="bg-primary">
 								<tr>
 									<th>#</th>
-									<th>Mã SP</th>
+									<th style="width: 85px">Mã SP</th>
 									<th>Tên SP</th>
-									<th>Số Lượng</th>
+									<th style="width: 85px">Số Lượng</th>
 									<th>Người Nhập</th>
 									<th>Nhà Sản Xuất</th>
+									<th>Khu</th>
+									<th>Hàng</th>
+									<th>Kệ</th>
 									<th>Ngày Nhập Kho</th>
-									<th>Thời Gian Sử Dụng</th>
+									<th style="width: 155px"></th>
 								</tr>
 							</thead>
 							<tbody>
+								<tr>
+									<td></td>
+									<td><input type="text" class="form-control" placeholder="Mã sản phẩm"></td>
+									<td><input type="text" class="form-control" placeholder="Tên sản phẩm"></td>
+									<td><input type="text" class="form-control" placeholder="Số lượng"></td>
+									<td><input type="text" class="form-control" placeholder="Người nhập"></td>
+									<td><input type="text" class="form-control" placeholder="Nhà sản xuất"></td>
+									<td>
+										<select class="form-select">
+											<option>Mời chọn</option>
+											<option>design</option>
+											<option>development</option>
+											<option>illustration</option>
+											<option>branding</option>
+											<option>video</option>
+										</select>
+									</td>
+									<td>
+										<select class="form-select">
+											<option>Mời chọn</option>
+											<option>less than 5000$</option>
+											<option>5000$ - 10000$</option>
+											<option>10000$ - 20000$</option>
+											<option>more than 20000$</option>
+										</select>
+									</td>
+									<td>
+										<select class="form-select">
+											<option>Mời chọn</option>
+											<option>less than 5000$</option>
+											<option>5000$ - 10000$</option>
+											<option>10000$ - 20000$</option>
+											<option>more than 20000$</option>
+										</select>
+									</td>
+									
+									<td>07/11/2023</td>
+									<td>
+										<button type="submit" class="btn btn-primary">
+											 Save
+										</button>
+										<button type="button" class="btn btn-warning me-1">
+											 Cancel
+										</button>
+									</td>
+								</tr>
 								<tr>
 									<td>1</td>
 									<td>SP01</td>
@@ -30,8 +79,14 @@
 									<td>5</td>
 									<td>Hoàng Đz</td>
 									<td>Iphone</td>
+									<td>Khu 1</td>
+									<td>Hàng 1</td>
+									<td>Kệ 1</td>
 									<td>07/11/2023</td>
-									<td>12/09/2030</td>
+									<td>
+										<button type="button" class="btn btn-warning me-1">Edit</button>
+										<button type="submit" class="btn btn-primary">Delete</button>
+									</td>
 								</tr>
 								<tr>
 									<td>2</td>
@@ -40,8 +95,14 @@
 									<td>8</td>
 									<td>Hoàng Đz</td>
 									<td>Samsung</td>
+									<td>Khu 2</td>
+									<td>Hàng 2</td>
+									<td>Kệ 3</td>
 									<td>07/11/2023</td>
-									<td>12/09/2035</td>
+									<td>
+										<button type="button" class="btn btn-warning me-1">Edit</button>
+										<button type="submit" class="btn btn-primary">Delete</button>
+									</td>
 								</tr>
 								<tr>
 									<td>3</td>
@@ -50,11 +111,15 @@
 									<td>5</td>
 									<td>Hoàng Đz</td>
 									<td>Asus</td>
+									<td>Khu 3</td>
+									<td>Hàng 2</td>
+									<td>Kệ 1</td>
 									<td>07/11/2023</td>
-									<td>12/09/2045</td>
+									<td>
+										<button type="button" class="btn btn-warning me-1">Edit</button>
+										<button type="submit" class="btn btn-primary">Delete</button>
+									</td>
 								</tr>
-								
-								
 							</tbody>
 						</table>
 					</div>

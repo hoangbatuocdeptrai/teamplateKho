@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SjEbASzwaFcYOw351SrrdoGPUB3XaJU0w32bjsbqUSo=",
+  "Hash": "Kml54EP+2r17ZJruT63l0UfybCn0SdIalfHse2/ZyZw=",
   "Source": "WMS",
   "BasePath": "_content/WMS",
   "Mode": "Default",
@@ -440,6 +440,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-v4compatibility.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\Image\\anh-che-mat-ngu-03.jpg",
+      "SourceId": "WMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
+      "BasePath": "_content/WMS",
+      "RelativePath": "Image/anh-che-mat-ngu-03.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\anh-che-mat-ngu-03.jpg"
     },
     {
       "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\js\\chat-popup.js",

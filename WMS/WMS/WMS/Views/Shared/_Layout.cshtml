@@ -74,7 +74,7 @@
 							</a>
 						</li>
 						<li class="btn-group nav-item d-xl-inline-flex d-none">
-							<a href="vendor.html" class="waves-effect waves-light nav-link w-p100 full-screen btn-primary-light fs-18 l-h-26">
+							<a class="nav-link" asp-controller="Supplier" asp-action="Index" class="waves-effect waves-light nav-link w-p100 full-screen btn-primary-light fs-18 l-h-26">
 								Nhà cung cấp
 							</a>
 						</li>
@@ -288,7 +288,7 @@
 								</ul>
 							</li>
 							<li class="treeview">
-								<a href="#">
+								<a class="nav-link" asp-controller="Order" asp-action="Index">
 									<i data-feather="dollar-sign"></i>
 									<span>Đơn hàng</span>
 									<span class="pull-right-container">
@@ -349,59 +349,15 @@
 									</span>
 								</a>
 							</li>
-							<li class="treeview">
-								<a href="#">
+							<li class="">
+								<a class="nav-link" asp-controller="Worker" asp-action="Index">
 									<i data-feather="users"></i>
 									<span>Công nhân</span>
 									<span class="pull-right-container">
 										@* <i class="fa fa-angle-right pull-right"></i> *@
 									</span>
 								</a>
-								<ul class="treeview-menu">
-									<li class="treeview">
-										<a href="#">
-											<i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Custom
-											<span class="pull-right-container">
-												@* <i class="fa fa-angle-right pull-right"></i> *@
-											</span>
-										</a>
-										<ul class="treeview-menu">
-											<li><a href="widgets_blog.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Blog</a></li>
-											<li><a href="widgets_chart.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Chart</a></li>
-											<li><a href="widgets_list.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>List</a></li>
-											<li><a href="widgets_social.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Social</a></li>
-											<li><a href="widgets_statistic.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Statistic</a></li>
-											<li><a href="widgets_weather.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Weather</a></li>
-											<li><a href="widgets.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Widgets</a></li>
-											<li><a href="email_index.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Emails</a></li>
-										</ul>
-									</li>
-									<li class="treeview">
-										<a href="#">
-											<i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Maps
-											<span class="pull-right-container">
-												@* <i class="fa fa-angle-right pull-right"></i> *@
-											</span>
-										</a>
-										<ul class="treeview-menu">
-											<li><a href="map_google.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Google Map</a></li>
-											<li><a href="map_vector.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Vector Map</a></li>
-										</ul>
-									</li>
-									<li class="treeview">
-										<a href="#">
-											<i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Modals
-											<span class="pull-right-container">
-												@* <i class="fa fa-angle-right pull-right"></i> *@
-											</span>
-										</a>
-										<ul class="treeview-menu">
-											<li><a href="component_modals.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Modals</a></li>
-											<li><a href="component_sweatalert.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Sweet Alert</a></li>
-											<li><a href="component_notification.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Toastr</a></li>
-										</ul>
-									</li>
-								</ul>
+							
 							</li>
 						</ul>
 
@@ -726,11 +682,37 @@
     <!-- Deposito Admin App -->
     <script src="https://warehouse-admin-dashboard.multipurposethemes.com/main-dark/js/template.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
-
-	<!-- Deposito Admin App -->
+	
     <script src="/js/dashboard.js"></script>
 	<script src="/js/feather.min.js"></script>
 	<script src="/js/vendors.min.js"></script>
 	<script src="/js/chat-popup.js"></script>
+	<script>
+		function addForm() {
+			// Clone the form container
+			var formContainer = document.getElementById('formContainer');
+			var clonedForm = formContainer.cloneNode(true);
+
+			// Clear input values in the cloned form
+			var inputs = clonedForm.getElementsByTagName('input');
+			for (var i = 0; i < inputs.length; i++) {
+				inputs[i].value = '';
+			}
+
+			// Replace "Thêm" button with "Xóa" button in the cloned form
+			var deleteButton = document.createElement('button');
+			deleteButton.innerHTML = 'Xóa';
+			deleteButton.className = 'btn btn-danger';
+			deleteButton.onclick = function () {
+				formContainer.parentNode.removeChild(clonedForm);
+			};
+
+			var clonedForm1 = clonedForm.querySelector('.row')
+			clonedForm.appendChild(deleteButton);
+
+			// Insert the cloned form right below the original one
+			formContainer.parentNode.insertBefore(clonedForm, formContainer.nextSibling);
+		}
+	</script>
 </body>
 </html>
