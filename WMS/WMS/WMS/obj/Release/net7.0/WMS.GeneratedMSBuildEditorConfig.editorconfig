@@ -16,14 +16,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\luong\OneDrive\Máy tính\project\teamplateKho\WMS\WMS\WMS
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/Criteria/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGVyaWFcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/Customer/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/ExportKho/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwb3J0S2hvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -50,10 +42,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/Inventory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/Kho/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/Order/Create.cshtml]
