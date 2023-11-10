@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WMS
 build_property.RootNamespace = WMS
-build_property.ProjectDir = C:\Users\luong\OneDrive\Máy tính\project\teamplateKho\WMS\WMS\WMS\
+build_property.ProjectDir = D:\WorkSpace\New folder (2)\WMS\WMS\WMS\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\luong\OneDrive\Máy tính\project\teamplateKho\WMS\WMS\WMS
+build_property.MSBuildProjectDirectory = D:\WorkSpace\New folder (2)\WMS\WMS\WMS
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/ExportKho/Create.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/ExportKho/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwb3J0S2hvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/ExportKho/Index.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/ExportKho/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwb3J0S2hvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/Home/Index.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/Home/Privacy.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/ImportKho/Create.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/ImportKho/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0S2hvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/ImportKho/Index.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/ImportKho/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0S2hvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/KiemKe/Index.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/KiemKe/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2llbUtlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/Shared/Error.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/_ViewImports.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/_ViewStart.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luong/OneDrive/Máy tính/project/teamplateKho/WMS/WMS/WMS/Views/Shared/_Layout.cshtml]
+[D:/WorkSpace/New folder (2)/WMS/WMS/WMS/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w5bijbd97g
