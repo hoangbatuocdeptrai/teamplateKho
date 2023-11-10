@@ -5,10 +5,13 @@
       "PackagePath": "staticwebassets\\WMS.bundle.scp.css"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\Image\\anh-che-mat-ngu-03.jpg",
       "PackagePath": "staticwebassets\\Image\\anh-che-mat-ngu-03.jpg"
     },
     {
+=======
+>>>>>>> origin/newbranch
       "Id": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\css\\Style.css",
       "PackagePath": "staticwebassets\\css\\Style.css"
     },

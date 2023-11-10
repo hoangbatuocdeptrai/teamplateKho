@@ -1,10 +1,14 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "Kml54EP+2r17ZJruT63l0UfybCn0SdIalfHse2/ZyZw=",
 =======
   "Hash": "EM5xz/NhRpkdvxkBHYy/QmK0KKrV1HGvetjygGgz3aw=",
 >>>>>>> b9159e8c0e7373f9266b5c6c50c1e7c4753266da
+=======
+  "Hash": "SjEbASzwaFcYOw351SrrdoGPUB3XaJU0w32bjsbqUSo=",
+>>>>>>> origin/newbranch
   "Source": "WMS",
   "BasePath": "_content/WMS",
   "Mode": "Default",
@@ -14,17 +18,17 @@
     {
       "Name": "WMS\\wwwroot",
       "Source": "WMS",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\bundle\\WMS.styles.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\bundle\\WMS.styles.css",
       "SourceId": "WMS",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WMS",
       "RelativePath": "WMS.styles.css",
       "AssetKind": "All",
@@ -35,13 +39,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\bundle\\WMS.styles.css"
+      "OriginalItemSpec": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\bundle\\WMS.styles.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\WMS.bundle.scp.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\WMS.bundle.scp.css",
       "SourceId": "WMS",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WMS",
       "RelativePath": "WMS.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +56,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\WMS.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\WMS.bundle.scp.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\css\\site.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -72,10 +76,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\css\\Style.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\css\\Style.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "css/Style.css",
       "AssetKind": "All",
@@ -89,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Style.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\favicon.ico",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -106,10 +110,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-brands-400.ttf",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -123,10 +127,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-brands-400.woff2",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -140,10 +144,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-duotone-900.ttf",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-duotone-900.ttf",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-duotone-900.ttf",
       "AssetKind": "All",
@@ -157,10 +161,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-duotone-900.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-duotone-900.woff2",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-duotone-900.woff2",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-duotone-900.woff2",
       "AssetKind": "All",
@@ -174,10 +178,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-duotone-900.woff2"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-light-300.ttf",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-light-300.ttf",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-light-300.ttf",
       "AssetKind": "All",
@@ -191,10 +195,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-light-300.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-light-300.woff2",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-light-300.woff2",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-light-300.woff2",
       "AssetKind": "All",
@@ -208,10 +212,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-light-300.woff2"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-regular-400.ttf",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -225,10 +229,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-regular-400.woff2",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -242,10 +246,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-light-300.ttf",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-light-300.ttf",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-sharp-light-300.ttf",
       "AssetKind": "All",
@@ -259,10 +263,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-sharp-light-300.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-light-300.woff2",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-light-300.woff2",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-sharp-light-300.woff2",
       "AssetKind": "All",
@@ -276,10 +280,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-sharp-light-300.woff2"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-regular-400.ttf",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-regular-400.ttf",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-sharp-regular-400.ttf",
       "AssetKind": "All",
@@ -293,10 +297,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-sharp-regular-400.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-regular-400.woff2",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-regular-400.woff2",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-sharp-regular-400.woff2",
       "AssetKind": "All",
@@ -310,10 +314,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-sharp-regular-400.woff2"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-solid-900.ttf",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-solid-900.ttf",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-sharp-solid-900.ttf",
       "AssetKind": "All",
@@ -327,10 +331,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-sharp-solid-900.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-solid-900.woff2",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-sharp-solid-900.woff2",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-sharp-solid-900.woff2",
       "AssetKind": "All",
@@ -344,10 +348,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-sharp-solid-900.woff2"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-solid-900.ttf",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -361,10 +365,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-solid-900.woff2",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -378,10 +382,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-solid-900.woff2"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-thin-100.ttf",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-thin-100.ttf",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-thin-100.ttf",
       "AssetKind": "All",
@@ -395,10 +399,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-thin-100.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-thin-100.woff2",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-thin-100.woff2",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-thin-100.woff2",
       "AssetKind": "All",
@@ -412,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-thin-100.woff2"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-v4compatibility.ttf",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-v4compatibility.ttf",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -429,10 +433,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-v4compatibility.woff2",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\fonts\\fontawesome\\fa-v4compatibility.woff2",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "fonts/fontawesome/fa-v4compatibility.woff2",
       "AssetKind": "All",
@@ -446,6 +450,7 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\fa-v4compatibility.woff2"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\Image\\anh-che-mat-ngu-03.jpg",
       "SourceId": "WMS",
@@ -468,9 +473,12 @@
 =======
       "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\js\\chat-popup.js",
 >>>>>>> b9159e8c0e7373f9266b5c6c50c1e7c4753266da
+=======
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\js\\chat-popup.js",
+>>>>>>> origin/newbranch
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "js/chat-popup.js",
       "AssetKind": "All",
@@ -484,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chat-popup.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\js\\dashboard.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\js\\dashboard.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "js/dashboard.js",
       "AssetKind": "All",
@@ -501,10 +509,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dashboard.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\js\\feather.min.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\js\\feather.min.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "js/feather.min.js",
       "AssetKind": "All",
@@ -518,10 +526,10 @@
       "OriginalItemSpec": "wwwroot\\js\\feather.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\js\\site.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -535,10 +543,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\js\\template.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\js\\template.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "js/template.js",
       "AssetKind": "All",
@@ -552,10 +560,10 @@
       "OriginalItemSpec": "wwwroot\\js\\template.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\js\\vendors.min.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\js\\vendors.min.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "js/vendors.min.js",
       "AssetKind": "All",
@@ -569,10 +577,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendors.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -586,10 +594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -603,10 +611,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -620,10 +628,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -637,10 +645,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -654,10 +662,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -671,10 +679,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -688,10 +696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -705,10 +713,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -722,10 +730,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -739,10 +747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -756,10 +764,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -773,10 +781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -790,10 +798,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -807,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -824,10 +832,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -841,10 +849,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -858,10 +866,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -875,10 +883,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -892,10 +900,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -909,10 +917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -926,10 +934,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -943,10 +951,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -960,10 +968,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -977,10 +985,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -994,10 +1002,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1011,10 +1019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1028,10 +1036,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1045,10 +1053,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1062,10 +1070,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1079,10 +1087,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1096,10 +1104,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1113,10 +1121,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1130,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1147,10 +1155,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1164,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1181,10 +1189,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1198,10 +1206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1215,10 +1223,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1232,10 +1240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1249,10 +1257,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1266,10 +1274,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1283,10 +1291,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1300,10 +1308,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1317,10 +1325,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1334,10 +1342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1351,10 +1359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1368,10 +1376,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1385,10 +1393,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1402,10 +1410,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1419,10 +1427,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1436,10 +1444,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1453,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1470,10 +1478,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1487,10 +1495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1504,10 +1512,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1521,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WMS",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\New folder (2)\\WMS\\WMS\\WMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\wwwroot\\",
       "BasePath": "_content/WMS",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
