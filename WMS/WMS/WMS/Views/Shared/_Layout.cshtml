@@ -666,8 +666,6 @@
             &copy; 2023 - WMS - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="https://warehouse-admin-dashboard.multipurposethemes.com/main-dark/js/vendors.min.js"></script>
     <script src="https://warehouse-admin-dashboard.multipurposethemes.com/main-dark/js/pages/chat-popup.js"></script>
@@ -676,14 +674,18 @@
     <script src="https://warehouse-admin-dashboard.multipurposethemes.com/assets/vendor_components/apexcharts-bundle/dist/apexcharts.js"></script>
     <script src="https://warehouse-admin-dashboard.multipurposethemes.com/assets/vendor_components/progressbar.js-master/dist/progressbar.js"></script>
     <script>
-        // document.getElementById('e').value = new Date().toISOString().substring(0, 10);
+        document.getElementById('e').value = new Date().toISOString().substring(0, 10);
     </script>
-
-    <!-- Deposito Admin App -->
     <script src="https://warehouse-admin-dashboard.multipurposethemes.com/main-dark/js/template.js"></script>
-    @await RenderSectionAsync("Scripts", required: false)
-	
     <script src="/js/dashboard.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Deposito Admin App -->
+	
 	<script src="/js/feather.min.js"></script>
 	<script src="/js/vendors.min.js"></script>
 	<script src="/js/chat-popup.js"></script>

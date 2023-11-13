@@ -722,3 +722,20 @@ D:\WorkSpace\New folder (2)\WMS\WMS\WMS\obj\Release\net7.0\refint\WMS.dll
 D:\WorkSpace\New folder (2)\WMS\WMS\WMS\obj\Release\net7.0\WMS.pdb
 D:\WorkSpace\New folder (2)\WMS\WMS\WMS\obj\Release\net7.0\WMS.genruntimeconfig.cache
 D:\WorkSpace\New folder (2)\WMS\WMS\WMS\obj\Release\net7.0\ref\WMS.dll
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.csproj.AssemblyReference.cache
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.AssemblyInfoInputs.cache
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.AssemblyInfo.cs
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.csproj.CoreCompileInputs.cache
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.RazorAssemblyInfo.cache
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.RazorAssemblyInfo.cs
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\staticwebassets\msbuild.WMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\staticwebassets\msbuild.build.WMS.props
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.WMS.props
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.WMS.props
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\staticwebassets.pack.json
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.dll
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\refint\WMS.dll
+C:\Users\luong\OneDrive\Máy tính\teamplateKho\WMS\WMS\WMS\obj\Release\net7.0\WMS.pdb

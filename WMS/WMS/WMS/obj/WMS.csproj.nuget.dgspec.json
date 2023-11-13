@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\WMS.csproj": {}
+    "C:\\Users\\luong\\OneDrive\\Máy tính\\teamplateKho\\WMS\\WMS\\WMS\\WMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\WMS.csproj": {
+    "C:\\Users\\luong\\OneDrive\\Máy tính\\teamplateKho\\WMS\\WMS\\WMS\\WMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\WMS.csproj",
+        "projectUniqueName": "C:\\Users\\luong\\OneDrive\\Máy tính\\teamplateKho\\WMS\\WMS\\WMS\\WMS.csproj",
         "projectName": "WMS",
-        "projectPath": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\WMS.csproj",
+        "projectPath": "C:\\Users\\luong\\OneDrive\\Máy tính\\teamplateKho\\WMS\\WMS\\WMS\\WMS.csproj",
         "packagesPath": "C:\\Users\\luong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\obj\\",
+        "outputPath": "C:\\Users\\luong\\OneDrive\\Máy tính\\teamplateKho\\WMS\\WMS\\WMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

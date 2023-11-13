@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BHfKPbX5i+oVYWvR+sP/FZGeVsHC1Rgp+dnfDQp0YyKVYDCrhA0mvzkFtHzmVpUfIqZIHNz8lbanxu25SEfYxQ==",
+  "dgSpecHash": "jytuvpAT21LKo46NVy0WWD40Rzd1i/EUfUmp8svKHkqf/GnQOOPZsYr4ovJSKaWrsXgdMdjsMIBD/leZGAGxIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luong\\OneDrive\\Máy tính\\project\\teamplateKho\\WMS\\WMS\\WMS\\WMS.csproj",
+  "projectFilePath": "C:\\Users\\luong\\OneDrive\\Máy tính\\teamplateKho\\WMS\\WMS\\WMS\\WMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luong\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\luong\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\7.0.4\\microsoft.aspnetcore.mvc.razor.runtimecompilation.7.0.4.nupkg.sha512",
